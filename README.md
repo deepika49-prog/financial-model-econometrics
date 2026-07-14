@@ -2,6 +2,7 @@
 
 A fully integrated three-statement financial model built in Microsoft Excel for Ashworth & Kensington Holdings plc, a fictional diversified holding company created for educational and portfolio purposes.
 This project demonstrates financial modeling, valuation, and forecasting techniques commonly used in corporate finance, equity research, FP&A, and investment banking.
+
 Features
 📈 Driver-based revenue forecasting by business segment
 📄 Fully integrated Income Statement, Balance Sheet, and Cash Flow Statement
@@ -16,32 +17,32 @@ Features
 📖 Comprehensive README and model documentation
 
 Workbook Structure:
-Cover
-README
-Dashboard
-Scenarios
-Assumptions
-Revenue Build
-Income Statement
-Working Capital
-Debt Schedule
-Balance Sheet
-Cash Flow
-DCF Valuation
-Comparables
-Sensitivity
-Econometrics
-Checks
-Skills Demonstrated
-Financial Modeling
-Corporate Finance
-Business Valuation
-DCF Analysis
-Comparable Company Analysis
-Excel Modeling
-Financial Statement Forecasting
-Scenario & Sensitivity Analysis
-Econometrics
+Cover,
+README,
+Dashboard,
+Scenarios,
+Assumptions,
+Revenue Build,
+Income Statement,
+Working Capital,
+Debt Schedule,
+Balance Sheet,
+Cash Flow,
+DCF Valuation,
+Comparables,
+Sensitivity,
+Econometrics,
+Checks,
+Skills Demonstrated,
+Financial Modeling,
+Corporate Finance,
+Business Valuation,
+DCF Analysis,
+Comparable Company Analysis,
+Excel Modeling,
+Financial Statement Forecasting,
+Scenario & Sensitivity Analysis,
+Econometrics,
 Data Visualization
 
 Disclaimer:
